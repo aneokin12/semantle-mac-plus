@@ -1,5 +1,7 @@
 # Semantle Plus
 
+<img width="678" height="506" alt="Screenshot 2026-08-18 at 1 21 03 AM" src="https://github.com/user-attachments/assets/610c8c19-c3d2-4c18-a93d-50db41f34082" />
+
 Semantle Plus is a small word-neighborhood game for a Macintosh Plus running
 System 3 software. It uses QuickDraw and the original Event Manager, with no
 floating point or runtime model loader. Type a word and press Return; the
