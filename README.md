@@ -77,6 +77,17 @@ image at a conservative speed with an HFS-aware CD mastering tool.
 The Macintosh Plus needs a compatible external SCSI CD-ROM drive/driver;
 System 3 does not provide every later CD-ROM driver automatically.
 
+## Downloads
+
+Prebuilt distributables are kept in [`artifacts/`](artifacts/):
+
+- [`SemantlePlus.cdr`](artifacts/SemantlePlus.cdr) — 20 MB classic-HFS CD image
+  for burning or mounting with a compatible Macintosh setup.
+- [`SemantlePlus.dsk`](artifacts/SemantlePlus.dsk) — 800 KB HFS disk image for
+  Mini vMac and similar emulators.
+- [`SemantlePlus.bin`](artifacts/SemantlePlus.bin) — 314 KB MacBinary
+  application with its resource fork preserved.
+
 ## Controls
 
 - Type letters, Backspace/Delete to edit, Return to score.
